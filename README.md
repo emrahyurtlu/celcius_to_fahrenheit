@@ -1,4 +1,4 @@
-#PROJE HAKKINDA
+# PROJE HAKKINDA
 Udacity de "Intro to TensorFlow for Deep Learning" kursunu takip ederken denk geldiğim bu projenin uygulamasını yaptım.
 
 Proje bana ait değildir, bir iki ufak değişiklik yaptım. Derin öğrenme hakkında araştırma yapana arkadaşlara, konuyu çok hızlı anlamalarına yardımcı  olacağını düşündüğüm için projeyi paylaşıyorum.
